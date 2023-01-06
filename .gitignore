@@ -1,0 +1,17 @@
+
+dist/
+.idea/
+.tmp/
+.project
+.classpath
+.settings
+.attach_*
+.metadata/
+*.iml
+*.log
+*.tmp
+*.zip
+*.bak
+*.versionsBackup
+
+
