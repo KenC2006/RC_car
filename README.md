@@ -18,8 +18,10 @@ List all required items and the purchase links
 ### Bluetooth application detail
 
 
+### Issues and solutions
+
 
 
 ### demo video
 
-[demo](https://github.com/Fsken/RC_car/demo/demo.mp4)
+Please download the mp4 file from folder: /demo/demo.mp4)
