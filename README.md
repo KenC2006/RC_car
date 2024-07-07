@@ -1,6 +1,6 @@
-## Bluetooth remote control car system build project
+## Bluetooth remote control car project
 
-Build a remote control car by using Bluetooth cell phone application
+Remote controlled car using Bluetooth application
 
 ### Design
 
