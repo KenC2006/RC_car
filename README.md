@@ -6,14 +6,4 @@ Remote controlled car using Bluetooth application
 
 ![cat](doc/car.png)
 
-
-### Bluetooth application detail
-
-
-### Issues and solutions
-
-
-
-### demo video
-
 Please download the mp4 file from folder: /demo/demo.mp4)
