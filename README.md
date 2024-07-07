@@ -2,14 +2,6 @@
 
 Remote controlled car using Bluetooth application
 
-### Design
-
-
-### Item
-
-List all required items and the purchase links
-
-
 ### Car detail
 
 ![cat](doc/car.png)
