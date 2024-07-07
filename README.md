@@ -2,7 +2,7 @@
 
 Remote controlled car using Bluetooth application
 
-### Car detail
+### Car Picture
 
 ![cat](doc/car.png)
 
