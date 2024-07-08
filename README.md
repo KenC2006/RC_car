@@ -1,6 +1,6 @@
 ## Bluetooth remote control car project
 
-Remote controlled car using Bluetooth application
+Remote controlled car using Bluetooth application created in MIT App Inventor
 
 ### Car Picture
 
