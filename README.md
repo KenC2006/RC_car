@@ -1,11 +1,10 @@
-## Bluetooth remote control car project
-
-Remote controlled car using Bluetooth application created in MIT App Inventor
+## Bluetooth RC Car
+This project is made with arduino components and utilizes a bluetooth app interface for wireless controls
 
 ### Car Picture
 
 ![cat](doc/car.png)
 
-Please download the mp4 file from folder: /demo/demo.mp4)
+For a video of the car and its operation, please download the mp4 file from folder: /demo/demo.mp4)
 
 [RC Car Project.pdf](https://github.com/user-attachments/files/16132399/RC.Car.Project.pdf)
