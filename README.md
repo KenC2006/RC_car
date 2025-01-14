@@ -6,4 +6,4 @@ This project is made with arduino components and utilizes a bluetooth app interf
 
 ![cat](doc/car.png)
 
-For a video of the car and its operation, please download the mp4 file from folder: /demo/demo.mp4)
+# For a video of the car and its operation, please download the mp4 file from folder: /demo/demo.mp4)
