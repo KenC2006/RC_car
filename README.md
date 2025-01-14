@@ -1,5 +1,6 @@
 ## Bluetooth RC Car
 This project is made with arduino components and utilizes a bluetooth app interface for wireless controls
+
 [RC Car Project.pdf](https://github.com/user-attachments/files/16132399/RC.Car.Project.pdf)
 ### Picture
 
